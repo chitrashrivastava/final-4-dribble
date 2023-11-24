@@ -450,6 +450,7 @@ position: absolute;
     background-size: cover;
     width: 19vw;
     height: 24vh;
+    /* background-color: red; */
 }
 .p12text{
     width: 19vw;
